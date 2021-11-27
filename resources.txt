@@ -1,0 +1,16 @@
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Baloo+Tamma+2:wght@400;500&family=Montserrat&family=Quicksand&family=Raleway:wght@500&display=swap" rel="stylesheet"> 
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Baloo+Tamma+2:wght@400;500&family=Montserrat&family=Quicksand&family=Raleway:wght@500&display=swap');
+Font styles:
+    font-family: 'Baloo Tamma 2', cursive;
+
+    font-family: 'Montserrat', sans-serif;
+
+    font-family: 'Quicksand', sans-serif;
+
+    font-family: 'Raleway', sans-serif;
+
+    font-family: 'Anton', sans-serif;
+
+
+Colors: 
+header -> #f0f0f5
